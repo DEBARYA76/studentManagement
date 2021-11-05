@@ -1,0 +1,15 @@
+
+.updated{
+    flex:4;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: darkmagenta;
+    font-size: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.updateMessage{
+    width: 100%;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
